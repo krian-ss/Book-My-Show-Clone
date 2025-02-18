@@ -1,0 +1,624 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+/* First Header */
+
+#bmsLogo{
+    width:115px;
+    margin-left:140px;
+    margin-top:10px;
+    cursor: pointer;
+}
+
+#searchBox{
+    width:540px;
+    height:28px;
+    padding-left: 40px;
+    margin-left:17px;
+    position: relative;
+    top:-15px;
+    border-radius: 3px;
+    outline:none;
+    border:0.1px solid lightgray;
+    
+}
+
+#searchBox::placeholder{
+    font-size: 14px;
+    color:grey;
+}
+
+#Sicon{
+    font-size: 20px;
+    position: relative;
+    top:-9px;
+    right:580px;
+    color:gray;
+    cursor:pointer;
+}
+
+        #dropdown1{
+            font-size: 14px;
+        font-weight: 400;
+            cursor:pointer;
+            outline:none;
+            border:none;
+            position: relative;
+            top:-12px;
+            left:225px;
+        }
+
+        #Signin1{
+            cursor:pointer;
+            outline:none;
+            color:white;
+            border-radius:4px;
+            border: 1px solid rgb(248, 68, 100);
+            background-color: rgb(248, 68, 100);
+            height:25px;
+            width:70px;
+            text-align: center;
+            position:relative;
+            top:-15px;
+            left:245px;
+        }
+
+#Smenu{
+    font-family: 'Material Symbols Outlined';
+    color:gray;
+  cursor: pointer;
+  position:relative;
+  top:-9px;
+  left:265px;
+}
+
+/* First Header Finish */
+
+/* ===================================================================================================== */
+
+/* Second Header */
+
+.secondHeader{
+    background-color: #f5f5f5;
+    height: 50px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+}
+
+#movies{
+    font-size:14px;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-left:140px;
+    margin-right:20px;
+}
+#stream{
+    font-size:14px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+#events{
+    font-size:14px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#plays{
+    font-size:14px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#sports{
+    font-size:14px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#activities{
+    font-size:14px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#ListYourShow{
+    font-size:12px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-left:575px;
+    margin-right:20px;
+}
+
+#Corporates{
+    font-size:12px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#Offers{
+    font-size:12px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+#GiftCards{
+    font-size:12px;
+    position:relative;
+    color:solid black;
+    text-decoration: none;
+    color:inherit;
+    margin-right:20px;
+}
+
+/* Second Header Finish */
+
+/* ===================================================================================================== */
+
+/* Third Header */
+
+.thirdHeader{
+    background-color:#eeeeee;
+    height:320px;
+    width:100%;
+    display:flex;
+    align-items: center;
+    
+        }
+        #playCard{
+            height:300px;
+            width:100%;
+            margin-right:20px;
+            border-radius:10px;
+        }
+
+/* ===================================================================================================== */
+
+/* Fourth Part */
+
+.moviesHead{
+    display:flex;
+}
+
+#recommended{
+    margin-left: 140px;
+    margin-top: 25px;
+}
+
+#movie1{
+    margin-left: 140px;
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+#movie2{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#movie3{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#movie4{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#movie5{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+.movieNames{
+display:flex;
+}
+
+.movieType{
+position:relative;
+top:-25px;
+display:flex;
+font-family: Roboto, sans-serif;
+color:grey;
+}
+
+/* Fourth Part Finish */
+
+/* ===================================================================================================== */
+
+/* Fifth Part */
+
+#BMSposter{
+    height:100px;
+    border-radius:10px;
+    text-align: center;
+    margin-left:140px;
+    width:83%;
+    margin-top:50px;
+    margin-bottom:100px;
+    display:flex;
+}
+
+/* Fifth Part Finish */
+
+/* ===================================================================================================== */
+
+/* Sixth Part */
+
+.LiveEvents{
+    margin-bottom:70px;
+    display: flex;
+}
+
+#AmusementPark{
+border-radius: 10px;
+margin-left:140px;
+height:225px;
+}
+
+#ComedyShows{
+border-radius: 10px;
+margin-left:28px;
+height:225px;
+}
+
+#KidsEvents{
+border-radius: 10px;
+margin-left:28px;
+height:225px;
+}
+
+#MusicShows{
+border-radius: 10px;
+margin-left:28px;
+height:225px;
+}
+
+#Workshop{
+border-radius: 10px;
+margin-left:28px;
+height:225px;
+}
+
+/* Sixth Part Finish */
+
+/* ===================================================================================================== */
+
+/* Seventh Part */
+
+.PremiereContainer{
+    height:650px;
+    background-color:rgb(43, 49, 72);
+}
+.PremiereBanner{
+    height: 90px;
+    width: 100%;
+}
+
+#PremiereBanner{
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+#Premierstext{
+    color: white;
+    margin-left: 140px;
+    margin-top:70px;
+}
+
+.PremiereTag{
+    color: white;
+    margin-left: 140px;
+    font-size: 13px;
+    margin-top: -20px;
+}
+
+.PremiereImg{
+    display: flex;
+}
+
+#Premiere1{
+    margin-left: 140px;
+    border-radius: 10px;
+    height:325px;
+    margin-right:25px;
+}
+
+#Premiere2{
+    position:relative;
+    border-radius: 10px;
+    height:325px;
+    margin-right:25px;
+}
+
+#Premiere3{
+    position:relative;
+    border-radius: 10px;
+    height:325px;
+    margin-right:25px;
+}
+
+#Premiere4{
+    position:relative;
+    border-radius: 10px;
+    height:325px;
+    margin-right:25px;
+}
+
+.PremiereNames{
+    display: flex;
+}
+
+.PremiereLanguage{
+    display: flex;
+    color:white;
+    margin-top: -30px;
+    margin-left: 140px;
+}
+
+/* Seventh Part Finish */
+
+/* ===================================================================================================== */
+
+/* Eighth Part */
+
+.MusicHead{
+    display: flex;
+}
+
+.MusicPosters{
+    display: flex;
+}
+
+#Music1{
+    margin-left: 140px;
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+#Music2{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#Music3{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#Music4{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+#Music5{
+    margin-right:25px;
+    border-radius:10px;
+    height:370px;
+}
+
+.MusicConcerts{
+    display: flex;
+    font-size:14px;
+    margin-left:140px;
+    color:#333;
+   }
+
+   .MusicLocation{
+    color:gray;
+    margin-left:140px;
+    margin-top:-25px;
+    display: flex;
+    margin-bottom:50px;
+   }
+
+   .MusicContainer{
+    margin-bottom:50px;
+   }
+
+/* Eighth Part Finish */
+
+/* ===================================================================================================== */
+
+/* Ninth Part */
+
+.OutdoorContainer{
+    margin-top:50px;
+    margin-bottom:50px;
+   }
+
+    .OutdoorHead{
+        display:flex;
+    }
+
+    #Outdoor1{
+        margin-left: 140px;
+margin-right:25px;
+border-radius:10px;
+height:370px;
+    }
+
+    #Outdoor2{
+        margin-right:25px;
+border-radius:10px;
+height:370px;
+    }
+
+    #Outdoor3{
+margin-right:25px;
+border-radius:10px;
+height:370px;
+}
+
+#Outdoor4{
+margin-right:25px;
+border-radius:10px;
+height:370px;
+}
+
+#Outdoor5{
+margin-right:25px;
+border-radius:10px;
+height:370px;
+}
+
+
+.OutDoorEvents{
+display: flex;
+font-size:14px;
+margin-left:140px;
+color:#333;} 
+    
+.OutDoorEventLocation{
+        color:gray;
+        margin-left:140px;
+        margin-top:-25px;
+        display: flex;
+        margin-bottom:50px;
+    }
+
+
+/* Ninth Finish */
+
+/* ===================================================================================================== */
+
+/*Footer*/
+
+.Footer1{
+    background-color:#333;
+    height:83px;
+    display:flex;
+    align-items:center;
+}
+
+#footerIcon1{
+    color:lightgrey;
+    margin-left:140px;
+    font-size:30px;
+}
+
+#footerButton{
+    cursor:pointer;
+    outline:none;
+    position:relative;
+    color:white;
+    border-radius:4px;
+    border: 1px solid rgb(248, 68, 100);
+    background-color: rgb(248, 68, 100);
+    height:45px;
+    width:142px;
+    margin-left:250px;
+}
+
+.Footer2{
+   
+    background-color:#666666;
+    height:118px;
+    display:flex;
+    align-items:center;
+}
+
+#footerIcon2 {
+color: lightgray;
+margin-left: 290px;
+font-size: 60px;
+margin-top: -30px;
+cursor: pointer;
+transition: color 0.3s ease; 
+}
+
+#footerIcon2:hover {
+color: white; 
+}
+
+#CustomerCare {
+color: lightgray;
+margin-top: 60px;
+font-size: 10px;
+margin-left: -80px;
+cursor: pointer;
+text-decoration: none;
+transition: color 0.3s ease; 
+}
+
+#CustomerCare:hover {
+color: white; 
+}
+
+#footerIcon21{
+color: lightgray;
+margin-left: 290px;
+font-size: 60px;
+margin-top: -30px;
+cursor: pointer;
+transition: color 0.3s ease; 
+}
+
+#footerIcon21:hover , #Booking:hover{
+color: white; 
+}
+
+#Booking{
+color: lightgray;
+margin-top: 60px;
+font-size: 10px;
+margin-left: -110px;
+cursor: pointer;
+text-decoration: none;
+transition: color 0.3s ease; 
+}
+
+#footerIcon23{
+color: lightgray;
+margin-left: 290px;
+font-size: 60px;
+margin-top: -30px;
+cursor: pointer;
+transition: color 0.3s ease; 
+}
+
+#footerIcon23:hover , #Subscribe:hover{
+color: white;
+}
+
+#Subscribe{color: lightgray;
+margin-top: 60px;
+font-size: 10px;
+margin-left: -110px;
+cursor: pointer;
+text-decoration: none;
+transition: color 0.3s ease; 
+}

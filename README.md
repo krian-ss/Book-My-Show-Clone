@@ -7,7 +7,6 @@ This project is a front-end clone of BookMyShow, a popular online ticketing plat
 * **Layout Design:**  Replicating the layout of the BookMyShow website, including navigation, banners, carousels, and grid-based content display.  This demonstrates an understanding of visual hierarchy and user experience.
 * **Image Integration:**  Incorporating images for movie posters, event banners, and logos to enhance the visual appeal and provide context.
 * **Icon Integration:**  Using Material Symbols for icons to represent different functionalities and improve the user interface.
-* **Responsive Design (Basic):**  The project aims for a responsive design, adapting the layout to different screen sizes, though further refinement may be needed.
 
 **Key Features Implemented:**
 
